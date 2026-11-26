@@ -1,0 +1,11 @@
+{
+ "belt_band_A": [
+  -42.0,
+  2.0
+ ],
+ "belt_voxels": 456093,
+ "belt_in_micelle_mask": 0.7645655600941036,
+ "belt_in_protein_mask": 0.18700572032458293,
+ "belt_in_neither": 0.04842871958131346,
+ "micelle_mask_in_belt_band": 0.994173675778512
+}

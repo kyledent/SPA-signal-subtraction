@@ -1,0 +1,15 @@
+# downloaded inputs (examples/*/fetch.sh)
+*.map
+*.map.gz
+*.cif
+*.xml
+# derived volumes and per-run outputs (regenerate with the scripts)
+*.mrc
+examples/*/viz/maps/
+examples/*/viz/masks/
+examples/*/viz/masks_sweep/
+examples/*/viz/renders/
+examples/*/viz/levels.json
+examples/*/viz/*.tsv
+__pycache__/
+*.pyc

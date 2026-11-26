@@ -1,0 +1,12 @@
+SPA-signal-subtraction
+Copyright 2026 Diamond Light Source
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The worked example uses public data that is downloaded at run time and is not redistributed here:
+EMDB entry EMD-32299 (maps, half maps and mask) and PDB entry 7W4A, from Tanaka et al. (2022),
+J. Med. Chem. 65, 7843-7853, doi:10.1021/acs.jmedchem.2c00338. The figures and result tables under
+examples/emd-32299/ are derived from that data.
+
+The ChimeraX scripts run inside UCSF ChimeraX, which is distributed separately under its own
+licence. No ChimeraX code is included here.
